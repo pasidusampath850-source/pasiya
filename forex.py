@@ -21,7 +21,6 @@ TELEGRAM_TOKEN = "7786434709:AAE29u264oOFf9qH0oBSmjfTKQLSlUu_TUo"  # <-- set
 
 # Replace with your correct Telegram numeric user id(s). Example: {6711430693}
 ADMINS = {94701619816}  # <-- set your telegram id here (must be int)
-
 SYMBOLS = ["XAUUSD"]
 MIN_LOT = 0.01
 RISK_PERCENT = 0.0001         # can be a fraction (<1) e.g., 0.01 = 1% OR a percent value (>=1) e.g., 1 = 1%
