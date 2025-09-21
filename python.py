@@ -31,9 +31,6 @@ CHECK_INTERVAL = 30
 DAILY_PROFIT_TARGET = 500000.0
 MAGIC = 20250918
 ORDER_DEVIATION = 50
-TAGLINE = "POWERED_BY PASIYA-MD FOREX AUTO TRADING BOT"
-# ============================
-
 running = False
 mode = None  # "safe" or "unlimited"
 start_balance = None
